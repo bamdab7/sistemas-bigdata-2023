@@ -1,0 +1,53 @@
+[33mcommit 10e0bf92de2ae40bd51c605347256412499d701a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: bamdab7 <nereapena42@gmail.com>
+Date:   Fri Dec 15 19:33:12 2023 +0100
+
+    subiendo algunos apartados del 4
+
+[33mcommit 0700943e5bcdef0980b6c4fe218e2f5f5939b2c7[m
+Author: Nerea Pena Carbajales <nerea.penacarbajales@WIRTZ.LOCAL>
+Date:   Fri Dec 15 19:07:07 2023 +0100
+
+    actualizando los ejercicios (moviendolos a carpeta aparte para mas organizacion)
+
+[33mcommit f08d0238f3d8b40d08653d068e894bdf4eb55543[m
+Author: Nerea Pena Carbajales <nerea.penacarbajales@WIRTZ.LOCAL>
+Date:   Fri Dec 15 19:05:00 2023 +0100
+
+    subiendo a mi fork los ejercicios propios
+
+[33mcommit 4aa5a200f95af16c232e7d3729f550665154818d[m
+Author: bigdatawirtz <ecd@fernandowirtz.com>
+Date:   Thu Dec 14 13:10:19 2023 +0100
+
+    05 notebooks added
+
+[33mcommit f8f9b0e8d8616b40958facda8a71aa96bfcf1de4[m
+Author: bigdatawirtz <ecd@fernandowirtz.com>
+Date:   Mon Dec 11 09:50:56 2023 +0100
+
+    new notebooks added
+
+[33mcommit a3e8cf8a80b1d7fad443af5aadb82872b9e86291[m
+Author: bigdatawirtz <ecd@fernandowirtz.com>
+Date:   Sun Dec 10 19:53:22 2023 +0100
+
+    little fix
+
+[33mcommit a29d738f4102d0c845b106be29dede200076f55b[m
+Author: bigdatawirtz <ecd@fernandowirtz.com>
+Date:   Thu Nov 30 11:40:12 2023 +0100
+
+    read csv files in pandas
+
+[33mcommit d83ffc785a86b0b44ca713ded76c78134e79c3a9[m
+Author: bigdatawirtz <ecd@fernandowirtz.com>
+Date:   Wed Nov 29 16:08:03 2023 +0100
+
+    first notebooks added
+
+[33mcommit 7808e50d0106b1248ab52d232aa3007e4b329dd0[m
+Author: bigdatawirtz <91669798+bigdatawirtz@users.noreply.github.com>
+Date:   Wed Nov 29 13:12:41 2023 +0100
+
+    Initial commit
